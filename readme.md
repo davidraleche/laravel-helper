@@ -2,5 +2,5 @@
 - touch Database/database.sqlite
 - then update .env
 
-### create Key AES KEY
+# #2 create Key AES KEY
 php artisan key:generate 
