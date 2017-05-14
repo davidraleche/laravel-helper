@@ -1,4 +1,4 @@
-# 1 Quick Setup SQL LITE
+# #1 Quick Setup SQL LITE
 - touch Database/database.sqlite
 - then update .env
 
