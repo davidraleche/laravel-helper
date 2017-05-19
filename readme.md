@@ -1,9 +1,9 @@
-## #1 Quick Setup SQL LITE
+##  Quick Setup SQL LITE
 ```
 - touch Database/database.sqlite
 - then update .env
 ```
-## #2 create Key AES KEY
+##  create Key AES KEY
 ```
 php artisan key:generate 
 ```
@@ -29,3 +29,4 @@ In order to check if it worked, logout and login again or execute
 ```
 source ~/.bashrc
 ```
+## Logs
