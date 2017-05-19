@@ -31,9 +31,8 @@ source ~/.bashrc
 ```
 ## Unix Alias
 ```
-alias p phpunit
-alias pf phpunit --filter
-```
+alias p=phpunit
+alias pf='phpunit --filter'```
 
 ## Logs
 ### laravel Log Viewer
