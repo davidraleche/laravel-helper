@@ -23,5 +23,9 @@ composer global require laravel/valet
 
 ## Unix BASH path 
 ```
-dd
+echo 'export PATH="$PATH:$HOME/.composer/vendor/bin"' >> ~/.bashrc
+```
+In order to check if it worked, logout and login again or execute
+```
+source ~/.bashrc
 ```
