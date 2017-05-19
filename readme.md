@@ -29,6 +29,12 @@ In order to check if it worked, logout and login again or execute
 ```
 source ~/.bashrc
 ```
+## Unix Alias
+```
+alias p phpunit
+alias pf phpunit --filter
+```
+
 ## Logs
 ### laravel Log Viewer
 
