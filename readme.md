@@ -20,3 +20,8 @@ brew install homebrew/php/php71
 ```
 composer global require laravel/valet
 ```
+
+## Unix BASH path 
+```
+dd
+```
